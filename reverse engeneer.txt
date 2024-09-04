@@ -1,0 +1,18 @@
+[21/06 09:38] Ribeiro, Leandro Santos
+Oi Gabriel,
+Não me esqueci de ti. Estive a procurar e encontrei o link no itchio: Got You Killed by CyberPixelArts (itch.io)
+Penso é q isto não terá grande valor porque só tenho mesmo o link para o download do jogo, não tem ficheiros do desenvolvimento do projeto.
+O portátil que eu tenho, estoirou o Windows e perdi o que lá tinha. Ainda estive a procurar se tinha alguma coisa no meu disco externo, mas também não tinha grande orgulho no trabalho que foi feito, então não devia ter muita pena de o perder 
+O projeto 3D passei em época especial então nem nos foi incentivado a meter numa store como o do itchio. E estava bastante bugado também, os trabalhos que fiz nessas cadeiras não me enchem de todo com orgulho 
+Desculpa lá não conseguir ser grande ajuda, mas espero que o link de itchio te sirva para mais alguma coisa.
+Got You Killed by CyberPixelArts
+ 
+
+Olá. Obrigado na mesma. Não tem problema não ter os arquivos, posso sempre tentar descompilar o executável do jogo para recuperar os dados, e obrigado por se dar ao trabalho de procurar pelos arquivos. Estive a testar por alto e não tive capacidade de passar da terceira fase mas eventualmente volto a tentar 
+
+
+
+
+
+
+https://www.kodeco.com/36285673-how-to-reverse-engineer-a-unity-game
